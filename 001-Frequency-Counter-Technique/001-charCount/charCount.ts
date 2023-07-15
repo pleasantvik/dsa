@@ -17,3 +17,5 @@ export function charCount(str: string | number) {
 }
 
 console.log(charCount("Java is fun"));
+console.log(charCount("abc"));
+console.log(charCount(1232335));
