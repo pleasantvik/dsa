@@ -16,7 +16,7 @@
 
 ## Project Architecture
 
--Each pattern is located in its own folder, which holds sub folder for different challenge
+- Each pattern is located in its own folder, which holds sub folder for different challenge
 
 `
 
