@@ -16,4 +16,9 @@ describe(charCount.name, () => {
 
     expect(result).toEqual({ j: 1, a: 2, v: 1, i: 1, s: 1, f: 1, u: 1, n: 1 });
   });
+  it("test 3", () => {
+    const result = charCount("");
+
+    expect(result).toEqual({});
+  });
 });

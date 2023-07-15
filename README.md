@@ -1,6 +1,18 @@
 # Data Structure & Algorithm
 
+## Getting started
+
+`npm install`
+
+## Running Test file
+
+`npm run testFile  nameOfTestFile`
+**EXAMPLE**
+`npm run testFile charCount`
+
 `No Particular order`
+
+- checkout any pattern of your choice
 
 ## Project Architecture
 

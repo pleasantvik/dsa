@@ -14,14 +14,10 @@ charCount(JaVA Is Fun);
 
 - toString()
 - Loop
-- return Object
 
 **Input/Output**
 
-- **[execution time limit] 4 seconds (js)**
-- **[input] string **
-
-  A positive two-digit integer.
+- **[input] string or number **
 
 _Guaranteed constraints:_
 
@@ -29,3 +25,4 @@ string will not be empty and A === a
 
 - **[output] object**
   The count of each character in the string
+  `{j: 1, a: 2, v: 1 , i: 1 s: 1, f: 1 , u: 1 , n: 1}`
