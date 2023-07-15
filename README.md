@@ -9,7 +9,7 @@
 # Project folder
 
 - **Sub folder for each challenge**
-  \*\*[Readme file]\*\*
+- **Read me file, introduicng the challenge and test case**
 
 `
 
@@ -18,3 +18,11 @@
 - the problem solving pattern use
 - a test case
 - Description of the challenge
+
+## Pattern cover
+
+- Frequency pattern
+- Multiple Pointer
+- Sliding Window
+- Divide and Conquer
+- Recursion
