@@ -17,8 +17,9 @@ string will always be a single word
 - **Input/Output**
 
 - **[input] string **
-  `same([1,2,3], [4,1,9])`
+
   - `anagram('iceman','cinema')`
+
 - `anagram('rat','tar')`
 - `anagram('rat','car')`
 - **[output]**
