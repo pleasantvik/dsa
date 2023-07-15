@@ -26,3 +26,5 @@
 - Sliding Window
 - Divide and Conquer
 - Recursion
+- Linear search
+- Binary Search
