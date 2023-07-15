@@ -20,9 +20,9 @@
 - Create the object and compare
   `{1:1, 2:1, 3:1} {1:2, 2:2}`
 
-- result: not the same
+` Check if the value of each key in both objects correspond`
 
-- Check if the value of each key in both objects correspond
+- result: not the same
 
 `CHECK OUT CODE EXAMPLE IN THE FUNCTIONS CREATED`
 
