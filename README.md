@@ -8,8 +8,8 @@
 
 # Project folder
 
-- **Sub folder for each challenge
-  **[Readme file]\*\*
+- **Sub folder for each challenge**
+  \*\*[Readme file]\*\*
 
 `
 
