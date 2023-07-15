@@ -1,3 +1,20 @@
 # Data Structure & Algorithm
 
-<p>There are 100 algorithms with README instructions as well as the initial function setup with a few test cases.</p>
+`No Particular order`
+
+## Project Architecture
+
+`
+
+# Project folder
+
+- **Sub folder for each challenge
+  **[Readme file]\*\*
+
+`
+
+<p>Each folder has the a readme file, explaing the following</p>
+
+- the problem solving pattern use
+- a test case
+- Description of the challenge
