@@ -18,3 +18,4 @@
 
 - charCount
 - same
+- anagram
