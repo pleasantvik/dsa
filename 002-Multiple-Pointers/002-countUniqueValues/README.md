@@ -6,7 +6,7 @@ Implement a function called countUniqueValues, which accepts a sorted array, and
 `Input: nums = [-3,-2,-1,3,11,7]
 Output: 6
 
-**Example 2: **
+**Example 2:**
 
 `Input: nums = [1 ,2,2,3,3,3]
 Output: 3`
