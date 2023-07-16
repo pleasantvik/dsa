@@ -10,7 +10,7 @@ Output: 6
 
 `Input: nums = [1 ,2,2,3,3,3]
 Output: 3`
-**Example 3:**
 
+**Example 3:**
 `Input: nums = []
 Output: 0`
