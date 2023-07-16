@@ -7,7 +7,7 @@ Write a function called sumZero, which accept a sorted array of intergers. The f
 Output: [0,3]
 Explanation: Because nums[0] + nums[3] == 0, we return [0, 3].`
 
-**Example 2: **
+**Example 2:**
 
 `Input: nums = [11,9,8,3,-3]
 Output: [3,4]`
